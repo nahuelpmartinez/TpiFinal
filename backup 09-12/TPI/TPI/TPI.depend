@@ -1,0 +1,417 @@
+# depslib dependency file v1.0
+1730245679 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpi\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1730245403 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpi\fecha.h
+	<string>
+
+1730245986 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpi\main.cpp
+	<iostream>
+	"Menu.h"
+
+1730244686 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpi\menu.cpp
+	<iostream>
+	"Vendedor.cpp"
+	"Menu.h"
+	"Fecha.cpp"
+
+1730244946 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpi\vendedor.cpp
+	"Fecha.h"
+	"Vendedor.h"
+	<cstring>
+	<iostream>
+
+1730245484 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpi\vendedor.h
+	<string>
+	"Persona.h"
+
+1730245368 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpi\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1730244879 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpi\persona.h
+	<string>
+	"Fecha.h"
+
+1730244721 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpi\menu.h
+
+1730245679 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpi\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1730245998 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpi\menu.cpp
+	<iostream>
+	"Vendedor.h"
+	"Menu.h"
+	"Fecha.h"
+
+1730245368 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpi\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1730244946 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpi\vendedor.cpp
+	"Fecha.h"
+	"Vendedor.h"
+	<cstring>
+	<iostream>
+
+1730290096 source:c:\users\gastón\documents\github\tpiv2\tpi\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1730290096 c:\users\gastón\documents\github\tpiv2\tpi\fecha.h
+	<string>
+
+1730290096 source:c:\users\gastón\documents\github\tpiv2\tpi\main.cpp
+	<iostream>
+	"Menu.h"
+
+1730691509 c:\users\gastón\documents\github\tpiv2\tpi\menu.h
+
+1730694485 source:c:\users\gastón\documents\github\tpiv2\tpi\menu.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	"Vendedor.h"
+	"Menu.h"
+	"Fecha.h"
+	"Cliente.H"
+	"Articulo.cpp"
+
+1730691341 c:\users\gastón\documents\github\tpiv2\tpi\vendedor.h
+	<string>
+	"Persona.h"
+
+1730345819 c:\users\gastón\documents\github\tpiv2\tpi\persona.h
+	<string>
+	"Fecha.h"
+
+1730345667 source:c:\users\gastón\documents\github\tpiv2\tpi\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1730691519 source:c:\users\gastón\documents\github\tpiv2\tpi\vendedor.cpp
+	"Fecha.h"
+	"Vendedor.h"
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1730731806 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1730569951 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\fecha.h
+	<string>
+
+1733749004 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\main.cpp
+	<iostream>
+	"Menu.h"
+	<locale>
+	<windows.h>
+
+1733748144 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\menu.h
+
+1733752170 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\menu.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	"Vendedor.h"
+	"Menu.h"
+	"Fecha.h"
+	"Cliente.H"
+	"Articulo.h"
+	"Venta.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoArticulos.h"
+	"ValidarIngresoDatos.h"
+
+1733700928 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\vendedor.h
+	<string>
+	"Persona.h"
+
+1730740520 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\persona.h
+	<string>
+	"Fecha.h"
+
+1730739421 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1733710921 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\vendedor.cpp
+	"Fecha.h"
+	"Vendedor.h"
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1733694976 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\cliente.cpp
+	"Fecha.h"
+	"Cliente.h"
+	"ArchivoClientes.h"
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1733694976 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\cliente.h
+	<string>
+	"Persona.h"
+
+1730690990 c:\users\gastón\documents\github\tpiv2\tpi\cliente.h
+	<string>
+	"Persona.h"
+
+1730689460 c:\users\gastón\documents\github\tpiv2\tpi\articulo.h
+
+1730690141 c:\users\gastón\documents\github\tpiv2\tpi\articulo.cpp
+	"Articulo.h"
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1730691370 source:c:\users\gastón\documents\github\tpiv2\tpi\cliente.cpp
+	"Fecha.h"
+	"Cliente.h"
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1730664366 c:\users\gastón\documents\github\tpiv2\tpi\cliente.cpp
+	"Fecha.h"
+	"Cliente.h"
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1730735243 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\articulo.cpp
+	"Articulo.h"
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1733752170 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\articulo.h
+	<string>
+
+1733678883 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\validaringresodatos.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	"Menu.h"
+
+1733752202 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\articulo.cpp
+	"Articulo.h"
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1730749753 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\venta.cpp
+	"Venta.h"
+	"Fecha.h"
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1732465800 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\venta.h
+	"Fecha.h"
+	<string>
+
+1733690305 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\archivoclientes.cpp
+	"ArchivoClientes.h"
+	"Fecha.h"
+	"Cliente.h"
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1733689059 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\archivoclientes.h
+	"Cliente.h"
+	<string>
+
+1733675004 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\validaringresodatos.h
+
+1733710922 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\archivovendedores.cpp
+	"ArchivoVendedores.h"
+	"Fecha.h"
+	"Vendedor.h"
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1733710922 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\archivovendedores.h
+	"Vendedor.h"
+	<string>
+
+1733751939 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\archivoarticulos.cpp
+	"ArchivoArticulos.h"
+	"Fecha.h"
+	"Articulo.h"
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1733751897 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\tpiv2\tpi\archivoarticulos.h
+	"Articulo.h"
+	<string>
+
+1733770818 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\archivoarticulos.cpp
+	"ArchivoArticulos.h"
+	"Fecha.h"
+	"Articulo.h"
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1733770818 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\archivoarticulos.h
+	"Articulo.h"
+	<string>
+
+1733752170 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\articulo.h
+	<string>
+
+1730569951 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\fecha.h
+	<string>
+
+1733776875 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\archivoclientes.cpp
+	"ArchivoClientes.h"
+	"Fecha.h"
+	"Cliente.h"
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1733769241 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\archivoclientes.h
+	"Cliente.h"
+	<string>
+
+1733778967 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\cliente.h
+	<string>
+	"Persona.h"
+
+1730740520 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\persona.h
+	<string>
+	"Fecha.h"
+
+1733768895 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\archivovendedores.cpp
+	"ArchivoVendedores.h"
+	"Fecha.h"
+	"Vendedor.h"
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1733768766 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\archivovendedores.h
+	"Vendedor.h"
+	<string>
+
+1733700928 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\vendedor.h
+	<string>
+	"Persona.h"
+
+1733752202 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\articulo.cpp
+	"Articulo.h"
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1733694976 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\cliente.cpp
+	"Fecha.h"
+	"Cliente.h"
+	"ArchivoClientes.h"
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1730731806 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1733777364 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\main.cpp
+	<iostream>
+	"Menu.h"
+	<locale>
+	<windows.h>
+
+1733778249 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\menu.h
+
+1730739421 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1733678883 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\validaringresodatos.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	"Menu.h"
+
+1733710921 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\vendedor.cpp
+	"Fecha.h"
+	"Vendedor.h"
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1733768340 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\venta.cpp
+	"Venta.h"
+	"Fecha.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1733768361 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\venta.h
+	"Fecha.h"
+	<string>
+	<cstring>
+
+1733778249 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\menu.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<vector>
+	"Vendedor.h"
+	"Menu.h"
+	"Fecha.h"
+	"Cliente.H"
+	"Articulo.h"
+	"Venta.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoArticulos.h"
+	"ValidarIngresoDatos.h"
+	"ArchivoVentas.h"
+	"DetalleVenta.h"
+	"ArchivoDetalleVenta.h"
+
+1733675004 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\validaringresodatos.h
+
+1733767980 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\archivodetalleventa.cpp
+	"ArchivoDetalleVenta.h"
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1733767979 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\archivodetalleventa.h
+	"DetalleVenta.h"
+	<vector>
+
+1733767981 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\detalleventa.h
+
+1733768059 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\archivoventas.cpp
+	"ArchivoVentas.h"
+	"Venta.h"
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1733768264 c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\archivoventas.h
+	"Venta.h"
+
+1733767830 source:c:\users\nahue\desktop\utn\2° cuatrimestre\programación ii\tpi\tpiv2\backup 09-12\tpi\detalleventa.cpp
+	"DetalleVenta.h"
+	<cstring>
+	<iostream>
+	<iomanip>
+
